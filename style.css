@@ -1,0 +1,12 @@
+.book{
+    text-align:center;
+    background-color: lightgray;
+    border:1px solid black;
+}
+
+/* .book::after, .book::before{
+    content:'abc';
+} */
+textarea{
+    resize:none;
+}
